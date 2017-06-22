@@ -10,5 +10,6 @@ namespace prueba1.Models
     {
     public string Name { get; set; }
     public DateTime Birth { get; set; }
+    
     }
 }
