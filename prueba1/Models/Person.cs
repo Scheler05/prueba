@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace prueba1.Models
 {
-    class Person
+    public class  Person
     {
+    public string Name { get; set; }
+    public DateTime Birth { get; set; }
     }
 }
