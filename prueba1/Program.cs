@@ -10,6 +10,8 @@ namespace prueba1
     {
         static void Main(string[] args)
         {
+            var uno = "una caja de cerveza";
         }
+
     }
 }
